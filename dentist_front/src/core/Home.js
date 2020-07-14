@@ -1,8 +1,8 @@
 import React from "react"
 import Navbar from './Navbar'
 import Booking from "../appointment/Booking"
-import maeImg from '../images/mae.jpg'
-import paiImg from '../images/pai.jpg'
+import liImg from '../images/li.jpg'
+import raImg from '../images/ra.jpg'
 
 
 
@@ -134,7 +134,7 @@ const prof = () => (
             <div className="col-md-6">
             <div className="row">
                 <div className="col-md-4">
-                    <img src={paiImg} alt="Dr. Luiz Alberto Matozo"></img>
+                    <img src={raImg} alt="Dr. Luiz Alberto Matozo"></img>
                 </div>
                 <div className="col-md-8">
                     <h5>Dr. Ramon Marques</h5>
@@ -150,7 +150,7 @@ const prof = () => (
             <div className="col-md-6">
             <div className="row">
                 <div className="col-md-4">
-                    <img src={maeImg} alt="Dra. Rosa Maria Matozo"></img>
+                    <img src={liImg} alt="Dra. Rosa Maria Matozo"></img>
                 </div>
                 <div className="col-md-8">
                     <h5>Dra. Linda Marques</h5>
