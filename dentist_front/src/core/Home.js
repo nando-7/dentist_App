@@ -21,7 +21,7 @@ const landing = () => (
     <div className="caption text-center">
         <h3>Bem vindo à</h3>
         <h3>Clínica Marques</h3>
-        <a className="btn btn-outline-light btn-lg" href="#services">Get started</a>
+        <a className="btn btn-outline-light btn-lg" href="#resources">Get started</a>
     </div>
     </div>
 )

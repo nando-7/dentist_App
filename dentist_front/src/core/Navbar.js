@@ -9,7 +9,7 @@ import "../styles.css";
 const Navbar = () => (
     <nav className="navbar navbar-expand-md navbar-light bg-light fixed-top">
         <div className="container-fluid">
-                <Link className="navbar-brand ef" to="/">LOGO</Link>
+                <a className="navbar-brand ef" href="/#home">LOGO</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" >
                     <span className="navbar-toggler-icon"></span>
                 </button>
